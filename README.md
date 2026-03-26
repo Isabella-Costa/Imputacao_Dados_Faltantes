@@ -32,25 +32,25 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
 
 2. Acesse a pasta do projeto:
 
-``` bash
- cd [nome-do-repositorio]
-
-```
+ ``` bash
+  cd [nome-do-repositorio]
+ 
+ ```
 
 3. Instale as dependências necessárias (recomenda-se o uso de um ambiente virtual):
 
-```bash
-
-pip install -r requirements.txt
-
-```
+ ```bash
+ 
+ pip install -r requirements.txt
+ 
+ ```
 
 ##  ✒️ Autoria
+Orientador:
 
-Desenvolvido por
 
-Danielle-sn
+Contribuidores do projeto:
 
-Isabella-Costa
-
-BiaBea
+| [<img src="https://github.com/Danielle-sn.png?size=115" width="115px;" alt="Foto de Danielle"/><br /><sub><b>Danielle-sn</b></sub>](https://github.com/Danielle-sn) | [<img src="https://github.com/Isabella-Costa.png?size=115" width="115px;" alt="Foto de Isabella"/><br /><sub><b>Isabella-Costa</b></sub>](https://github.com/Isabella-Costa) | [<img src="https://github.com/BiaBea.png?size=115" width="115px;" alt="Foto de BiaBea"/><br /><sub><b>BiaBea</b></sub>](https://github.com/BiaBea) |
+| :---: | :---: | :---: |
+| [✉️ Contato](https://github.com/Danielle-sn) | [✉️ Contato](https://github.com/Isabella-Costa) | [✉️ Contato](https://github.com/BiaBea) |
