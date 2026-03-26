@@ -28,3 +28,30 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
 1. Clone este repositório para a sua máquina local:
    ```bash
    git clone [https://github.com/Isabella-Costa/Imputacao_Dados_Faltantes.git)]
+
+  ```
+
+2. Acesse a pasta do projeto:
+
+``` bash
+ cd [nome-do-repositorio]
+
+```
+
+3. Instale as dependências necessárias (recomenda-se o uso de um ambiente virtual):
+
+```bash
+
+pip install -r requirements.txt
+
+```
+
+##  ✒️ Autoria
+
+Desenvolvido por
+
+Danielle-sn
+
+Isabella-Costa
+
+BiaBea
