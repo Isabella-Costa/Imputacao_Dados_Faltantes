@@ -33,7 +33,7 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
 2. Acesse a pasta do projeto:
 
  ``` bash
-  cd [nome-do-repositorio]
+  cd Imputacao_Dados_Faltantes
  
  ```
 
