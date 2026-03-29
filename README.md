@@ -14,7 +14,7 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
 * **`IsolationForest.ipynb`**: Implementação e treinamento do algoritmo de **Isolation Forest**, focado na identificação de *outliers* e anomalias nos dados industriais.
 * **`RandomForest.ipynb`**: Implementação de modelos baseados em **Random Forest**, aplicados para suporte na imputação de dados ou classificação de padrões.
 
-### 🛠️ Tecnologias e Ferramentas Utilizadas
+### Tecnologias e Ferramentas Utilizadas
 
 * **Linguagem:** Python
 * **Ambiente de Desenvolvimento:** Google Colab / Jupyter Notebook/ VsCode
@@ -23,7 +23,7 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
   * Processamento de Sinais: `scipy` (FFT)
   * Visualização: `matplotlib`, `seaborn`
 
-### 🚀 Como Executar
+### Como Executar?
 
 1. Clone este repositório para a sua máquina local:
    ```bash
@@ -31,21 +31,14 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
    ```
 
 2. Acesse a pasta do projeto:
-
- ``` bash
-  cd Imputacao_Dados_Faltantes
- 
- ```
-
+   ```bash
+   cd Imputacao_Dados_Faltantes
+   ```
 3. Instale as dependências necessárias (recomenda-se o uso de um ambiente virtual):
-
- ```bash
- 
- pip install -r requirements.txt
- 
- ```
-
-### ✒️ Autoria
+   ```bash
+   pip install -r requirements.txt
+   ```
+### Autoria
 Orientador:
 Professor Rodrigo de Paula Monteiro
 
