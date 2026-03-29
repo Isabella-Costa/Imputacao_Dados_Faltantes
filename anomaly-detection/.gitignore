@@ -1,0 +1,10 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Ambientes Virtuais
+venv/
+env/
+
+*.csv
+*.xlsx
