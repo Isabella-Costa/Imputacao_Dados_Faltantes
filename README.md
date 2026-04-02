@@ -44,6 +44,6 @@ Professor Rodrigo de Paula Monteiro
 
 Contribuidores do projeto:
 
-| [<img src="https://github.com/Danielle-sn.png?size=115" width="115px;" alt="Foto de Danielle"/><br /><sub><b>Danielle-sn</b></sub>](https://github.com/Danielle-sn) | [<img src="https://github.com/Isabella-Costa.png?size=115" width="115px;" alt="Foto de Isabella"/><br /><sub><b>Isabella-Costa</b></sub>](https://github.com/Isabella-Costa) | [<img src="https://github.com/BiaBea.png?size=115" width="115px;" alt="Foto de BiaBea"/><br /><sub><b>BiaBea</b></sub>](https://github.com/BiaBea) |
+| [<img src="https://github.com/Danielle-sn.png?size=115" width="115px;" alt="Foto de Danielle"/><br /><sub><b>Danielle-sn</b></sub>](https://github.com/Danielle-sn) | [<img src="https://github.com/Isabella-Costa.png?size=115" width="115px;" alt="Foto de Isabella"/><br /><sub><b>Isabella-Costa</b></sub>](https://github.com/Isabella-Costa) | [<img src="https://github.com/BiaBea.png?size=115" width="115px;" alt="Foto de BiaBea"/><br /><sub><b>BiaBea</b></sub>](https://github.com/BeaBia) |
 | :---: | :---: | :---: |
-| [✉️ Contato](https://github.com/Danielle-sn) | [✉️ Contato](https://github.com/Isabella-Costa) | [✉️ Contato](https://github.com/BiaBea) |
+| [✉️ Contato](https://github.com/Danielle-sn) | [✉️ Contato](https://github.com/Isabella-Costa) | [✉️ Contato](https://github.com/BeaBia) |
