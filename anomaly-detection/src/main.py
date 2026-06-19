@@ -12,10 +12,8 @@ def run_experiment():
     loader = DataLoader(diretorio_dados=data_dir)
     extractor = FeatureExtractor(tamanho_janela=2048)
     
-    # Instanciando a nossa "Trinca" de Modelos!
     iforest = IsolationForestDetector()
     lof = LOFDetector()
-    # Usaremos nu=0.05, indicando que toleramos cerca de 5% de ruído no dado normal
     ocsvm = OneClassSVMDetector(nu=0.05) 
     
     print("[1/4] Carregando arquivos .mat...")
