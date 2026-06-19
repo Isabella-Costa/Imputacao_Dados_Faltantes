@@ -1,10 +1,10 @@
-# 🏭 Imputação de Dados Faltantes e Detecção de Anomalias
+## 🏭 Imputação de Dados Faltantes e Detecção de Anomalias
 
 > Alinhamento da Imputação de Dados Faltantes em Séries Temporais Multivariadas à Tarefa de Detecção de Anomalias no Contexto da Indústria 4.0.
 
 Este projeto explora o impacto e as técnicas de tratamento de dados ausentes (imputação) em séries temporais complexas, com o objetivo final de melhorar a precisão dos modelos de detecção de anomalias aplicados a cenários industriais.
 
-## 📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 
 O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolvidos via Google Colab), divididos pelas etapas de análise e modelagem:
 
@@ -14,7 +14,7 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
 * **`IsolationForest.ipynb`**: Implementação e treinamento do algoritmo de **Isolation Forest**, focado na identificação de *outliers* e anomalias nos dados industriais.
 * **`RandomForest.ipynb`**: Implementação de modelos baseados em **Random Forest**, aplicados para suporte na imputação de dados ou classificação de padrões.
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+### Tecnologias e Ferramentas Utilizadas
 
 * **Linguagem:** Python
 * **Ambiente de Desenvolvimento:** Google Colab / Jupyter Notebook/ VsCode
@@ -23,7 +23,7 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
   * Processamento de Sinais: `scipy` (FFT)
   * Visualização: `matplotlib`, `seaborn`
 
-## 🚀 Como Executar
+### Como Executar?
 
 1. Clone este repositório para a sua máquina local:
    ```bash
@@ -31,26 +31,19 @@ O repositório está organizado em scripts Python e Jupyter Notebooks (desenvolv
    ```
 
 2. Acesse a pasta do projeto:
-
- ``` bash
-  cd Imputacao_Dados_Faltantes
- 
- ```
-
+   ```bash
+   cd Imputacao_Dados_Faltantes
+   ```
 3. Instale as dependências necessárias (recomenda-se o uso de um ambiente virtual):
-
- ```bash
- 
- pip install -r requirements.txt
- 
- ```
-
-##  ✒️ Autoria
+   ```bash
+   pip install -r requirements.txt
+   ```
+### Autoria
 Orientador:
-
+Professor Rodrigo de Paula Monteiro
 
 Contribuidores do projeto:
 
-| [<img src="https://github.com/Danielle-sn.png?size=115" width="115px;" alt="Foto de Danielle"/><br /><sub><b>Danielle-sn</b></sub>](https://github.com/Danielle-sn) | [<img src="https://github.com/Isabella-Costa.png?size=115" width="115px;" alt="Foto de Isabella"/><br /><sub><b>Isabella-Costa</b></sub>](https://github.com/Isabella-Costa) | [<img src="https://github.com/BiaBea.png?size=115" width="115px;" alt="Foto de BiaBea"/><br /><sub><b>BiaBea</b></sub>](https://github.com/BiaBea) |
+| [<img src="https://github.com/Danielle-sn.png?size=115" width="115px;" alt="Foto de Danielle"/><br /><sub><b>Danielle-sn</b></sub>](https://github.com/Danielle-sn) | [<img src="https://github.com/Isabella-Costa.png?size=115" width="115px;" alt="Foto de Isabella"/><br /><sub><b>Isabella-Costa</b></sub>](https://github.com/Isabella-Costa) | [<img src="https://github.com/BiaBea.png?size=115" width="115px;" alt="Foto de BiaBea"/><br /><sub><b>BiaBea</b></sub>](https://github.com/BeaBia) |
 | :---: | :---: | :---: |
-| [✉️ Contato](https://github.com/Danielle-sn) | [✉️ Contato](https://github.com/Isabella-Costa) | [✉️ Contato](https://github.com/BiaBea) |
+| [✉️ Contato](https://github.com/Danielle-sn) | [✉️ Contato](https://github.com/Isabella-Costa) | [✉️ Contato](https://github.com/BeaBia) |
