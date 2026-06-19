@@ -2,7 +2,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import IsolationForest
 from sklearn.neighbors import LocalOutlierFactor
-from sklearn.svm import OneClassSVM # <-- Nova biblioteca do SVM
+from sklearn.svm import OneClassSVM 
 
 class IsolationForestDetector:
     """Modelo de Baseline utilizando árvores (Isolation Forest)."""
